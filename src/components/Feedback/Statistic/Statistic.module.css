@@ -1,0 +1,12 @@
+.wrap {
+  display: flex;
+  justify-content: space-around;
+}
+
+.text {
+  font-size: 15px;
+}
+
+.text:not(:last-child) {
+  margin-right: 10px;
+}

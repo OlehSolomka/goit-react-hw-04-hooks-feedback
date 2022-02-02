@@ -1,0 +1,15 @@
+.button {
+  color: rgb(203, 238, 163);
+  background-color: rgb(52, 18, 99);
+  width: 100px;
+  height: 40px;
+  padding: 10px 15px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: capitalize;
+}
+.wrap {
+  max-width: fit-content;
+  margin-right: auto;
+  margin-left: auto;
+}
